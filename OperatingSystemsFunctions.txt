@@ -6,3 +6,7 @@ Operating System Functions
 2. Manage Resources - An operating system needs to be able to manage different resources. For example, it needs to be able to
     manage sound, the display, its internet connection, etc. An operating system should be able to juggle all of those types
     of things without the user having to think too hard about it.
+3. Controlling Hardware - Just like the need to manage resources, the operating system needs to be able to control and manage
+    the hardware of your computer as well. This would include things like the memory, the GPU, and the CPU. Again, an operating
+    system is designed to be able to manage all this stuff behind the scenes so most users shouldn't have to think about it
+    too much.
