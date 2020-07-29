@@ -3,3 +3,6 @@ Operating System Functions
     Styles of interface will vary. For example, some operating systems use a visual interface in which users can interact
     with virtual files and folders. Others are all text based, requiring the user to read through lines of text to see what
     they're interacting with, and interact with those items through typed commands.
+2. Manage Resources - An operating system needs to be able to manage different resources. For example, it needs to be able to
+    manage sound, the display, its internet connection, etc. An operating system should be able to juggle all of those types
+    of things without the user having to think too hard about it.
